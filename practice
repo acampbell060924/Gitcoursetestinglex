@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Hello Git 
-=======
 # Git & GitHub Practice Test
 
 ## Purpose
@@ -21,4 +18,3 @@ Complete each section by running real commands and making real commits.
 git init
 git add README.md
 git commit -m "Initial commit with study test file"
->>>>>>> f14994dfd77599f23dae46f7644f602ce86c137d
